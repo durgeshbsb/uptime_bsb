@@ -1,31 +1,44 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: durgeshbsb # Your GitHub organization or username, where this repository lives
+repo: uptime_bsb # The name of this repository
 
 sites:
-  - name: Google
+  - name: Bsb fortrade
     url: https://www.bsbfortrade.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Swaarg AI
+    url: https://swaarg.ai/chat
+  - name: BSB Admin Panel(bsbprime)
+    url: https://bsbprime.bsbinfotrade.com/login
+  - name: (DEMO) BSB Admin Panel(bsbprime)
+    url: https://bsbprimedemo.bsbinfotrade.com/login
+  - name: Chantriq
+    url: https://chantriq.com/
+  - name: Backend NodeJS
+    url: https://backend.bsbinfotrade.com/
+  - name: Task Scheduler
+    url: https://api-taskscheduler.bsbinfotrade.com/
+  - name: (PORT) Backend NodeJS
+    url: http://94.136.187.248:3000/
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /uptime_bsb
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://bsbfortrade.com/assets/images/Logo_bsb_white.webp
+  name: BSB
+  introTitle: "**BSB Service Status**"
+  introMessage: >
+    Monitor the real-time availability and performance of BSB websites,
+    applications, APIs, and customer services. This page is updated
+    automatically to provide current operational status and incident history.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    # - title: GitHub
+      # href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
