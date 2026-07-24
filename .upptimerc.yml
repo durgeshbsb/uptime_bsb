@@ -31,6 +31,8 @@ sites:
     url: https://backend.bsbinfotrade.com/
   - name: Task Scheduler
     url: https://api-taskscheduler.bsbinfotrade.com/
+  - name: Fireshe
+    url: https://fireshe.com/
   - name: (PORT) Backend NodeJS
     url: http://94.136.187.248:3000/
     
