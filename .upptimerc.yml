@@ -9,8 +9,22 @@ sites:
     url: https://swaarg.ai/chat
   - name: BSB Admin Panel + Mobile APIs
     url: https://bsbprime.bsbinfotrade.com/login
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 302
+      - 300
+      - 301
   - name: (DEMO) BSB Admin Panel + Mobile APIs
     url: https://bsbprimedemo.bsbinfotrade.com/login
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 302
+      - 300
+      - 301
   - name: Chantriq
     url: https://chantriq.com/
   - name: Backend NodeJS
