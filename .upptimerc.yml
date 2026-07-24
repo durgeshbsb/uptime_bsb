@@ -45,6 +45,7 @@ status-website:
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://bsbfortrade.com/assets/images/Logo_bsb_white.webp
   name: BSB
+  theme: ocean
   introTitle: "**BSB Service Status**"
   introMessage: >
     Monitor the real-time availability and performance of BSB websites,
