@@ -50,7 +50,7 @@ status-website:
     automatically to provide current operational status and incident history.
   navbar:
     - title: Status
-      href: /
+      href: /uptime_bsb
     # - title: GitHub
       # href: https://github.com/$OWNER/$REPO
 
