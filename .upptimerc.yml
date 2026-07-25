@@ -14,12 +14,10 @@ sites:
       - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
 
   - name: Swaarg AI
-    url: https://swaarg.ai/chat
+    url: https://swaarg.ai/Black-font-logo.png
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
-      - 301
-      - 302
     headers:
       - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
 
@@ -74,12 +72,10 @@ sites:
       - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
 
   - name: Fireshe
-    url: https://fireshe.com/
+    url: https://fireshe.com/footer.png
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
-      - 301
-      - 302
     headers:
       - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
 
