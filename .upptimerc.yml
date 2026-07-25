@@ -4,7 +4,7 @@ repo: uptime_bsb # The name of this repository
 
 sites:
   - name: Bsb fortrade website
-    url: https://www.bsbfortrade.com
+    url: https://bsbfortrade.com/assets/images/Logo_bsb_white.webp
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
