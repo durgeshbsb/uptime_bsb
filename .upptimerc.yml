@@ -5,36 +5,93 @@ repo: uptime_bsb # The name of this repository
 sites:
   - name: Bsb fortrade website
     url: https://www.bsbfortrade.com
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
+
   - name: Swaarg AI
     url: https://swaarg.ai/chat
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
+
   - name: BSB Admin Panel + Mobile APIs
-    url: https://bsbprime.bsbinfotrade.com
+    url: https://bsbprime.bsbinfotrade.com/login
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
-      - 201
-      - 404
-      - 302
-      - 300
       - 301
+      - 302
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
+
   - name: (DEMO) BSB Admin Panel + Mobile APIs
-    url: https://bsbprimedemo.bsbinfotrade.com
+    url: https://bsbprimedemo.bsbinfotrade.com/login
+    maxResponseTime: 30000
     expectedStatusCodes:
       - 200
-      - 201
-      - 404
-      - 302
-      - 300
       - 301
+      - 302
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
+
   - name: Chantriq
     url: https://chantriq.com/
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
+
   - name: Backend NodeJS
     url: https://backend.bsbinfotrade.com/
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
+
   - name: Task Scheduler
     url: https://api-taskscheduler.bsbinfotrade.com/
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
+
   - name: Fireshe
     url: https://fireshe.com/
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
+
   - name: (PORT) Backend NodeJS
     url: http://94.136.187.248:3000/
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+    headers:
+      - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
     
 
 status-website:
