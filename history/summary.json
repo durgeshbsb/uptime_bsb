@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bsbfortrade.com.ico",
     "slug": "bsb-fortrade-website",
     "status": "up",
-    "uptime": "83.77%",
-    "uptimeDay": "83.77%",
-    "uptimeWeek": "83.77%",
-    "uptimeMonth": "83.77%",
-    "uptimeYear": "83.77%",
+    "uptime": "84.76%",
+    "uptimeDay": "84.76%",
+    "uptimeWeek": "84.76%",
+    "uptimeMonth": "84.76%",
+    "uptimeYear": "84.76%",
     "time": 787,
     "timeDay": 787,
     "timeWeek": 787,
@@ -17,7 +17,7 @@
     "timeYear": 787,
     "dailyMinutesDown": {
       "2026-07-24": 50,
-      "2026-07-25": 62
+      "2026-07-25": 56
     }
   },
   {
@@ -26,19 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/swaarg.ai.ico",
     "slug": "swaarg-ai",
     "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.13%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 585,
     "timeDay": 585,
     "timeWeek": 585,
     "timeMonth": 585,
     "timeYear": 585,
-    "dailyMinutesDown": {
-      "2026-07-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BSB Admin Panel + Mobile APIs",
@@ -66,11 +64,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bsbprimedemo.bsbinfotrade.com.ico",
     "slug": "demo-bsb-admin-panel-mobile-ap-is",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "98.29%",
+    "uptime": "98.30%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "98.30%",
     "time": 1612,
     "timeDay": 1612,
     "timeWeek": 1612,
@@ -86,38 +84,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/chantriq.com.ico",
     "slug": "chantriq",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1146,
     "timeDay": 1146,
     "timeWeek": 1146,
     "timeMonth": 1146,
     "timeYear": 1146,
-    "dailyMinutesDown": {
-      "2026-07-25": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Backend NodeJS",
     "url": "https://backend.bsbinfotrade.com/",
     "icon": "https://icons.duckduckgo.com/ip3/backend.bsbinfotrade.com.ico",
     "slug": "backend-node-js",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 788,
-    "timeDay": 788,
-    "timeWeek": 788,
-    "timeMonth": 788,
-    "timeYear": 788,
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 796,
+    "timeDay": 796,
+    "timeWeek": 796,
+    "timeMonth": 796,
+    "timeYear": 796,
     "dailyMinutesDown": {
-      "2026-07-25": 2
+      "2026-07-25": 5
     }
   },
   {
@@ -144,38 +140,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/fireshe.com.ico",
     "slug": "fireshe",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 568,
     "timeDay": 568,
     "timeWeek": 568,
     "timeMonth": 568,
     "timeYear": 568,
-    "dailyMinutesDown": {
-      "2026-07-25": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "(PORT) Backend NodeJS",
     "url": "http://94.136.187.248:3000/",
     "icon": "https://icons.duckduckgo.com/ip3/94.136.187.248.ico",
     "slug": "port-backend-node-js",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 453,
-    "timeDay": 453,
-    "timeWeek": 453,
-    "timeMonth": 453,
-    "timeYear": 453,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 454,
+    "timeDay": 454,
+    "timeWeek": 454,
+    "timeMonth": 454,
+    "timeYear": 454,
     "dailyMinutesDown": {
-      "2026-07-25": 1
+      "2026-07-25": 4
     }
   }
 ]
