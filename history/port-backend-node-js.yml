@@ -1,7 +1,7 @@
 url: http://94.136.187.248:3000/
-status: up
-code: 200
-responseTime: 430
-lastUpdated: 2026-07-24T19:00:25.526Z
+status: down
+code: 500
+responseTime: 448
+lastUpdated: 2026-07-25T03:36:05.509Z
 startTime: 2026-07-24T15:53:55.041Z
 generator: Upptime <https://github.com/upptime/upptime>
