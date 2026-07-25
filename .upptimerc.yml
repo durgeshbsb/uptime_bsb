@@ -42,7 +42,7 @@ sites:
       - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
 
   - name: Chantriq
-    url: https://chantriq.com/
+    url: https://chantriq.com/assets/Image/Chantriq_logo12.webp
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
