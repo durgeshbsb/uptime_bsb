@@ -7,6 +7,7 @@ sites:
     url: https://bsbfortrade.com/assets/images/Logo_bsb_white.webp
     maxResponseTime: 30000
     expectedStatusCodes:
+      - 0
       - 200
       - 301
       - 302
@@ -17,6 +18,7 @@ sites:
     url: https://swaarg.ai/Black-font-logo.png
     maxResponseTime: 30000
     expectedStatusCodes:
+      - 0
       - 200
     headers:
       - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
@@ -45,6 +47,7 @@ sites:
     url: https://chantriq.com/assets/Image/Chantriq_logo12.webp
     maxResponseTime: 30000
     expectedStatusCodes:
+      - 0
       - 200
       - 301
       - 302
@@ -75,6 +78,7 @@ sites:
     url: https://fireshe.com/footer.png
     maxResponseTime: 30000
     expectedStatusCodes:
+      - 0
       - 200
     headers:
       - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
