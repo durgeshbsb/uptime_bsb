@@ -123,5 +123,8 @@ secrets:
   - NOTIFICATION_EMAIL_SMTP_USERNAME
   - NOTIFICATION_EMAIL_SMTP_PASSWORD
 
+i18n:
+  footer: This page is powered by Durgesh Hirani.
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
