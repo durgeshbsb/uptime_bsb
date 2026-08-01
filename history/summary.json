@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bsbfortrade.com.ico",
     "slug": "bsb-fortrade-website",
     "status": "up",
-    "uptime": "93.56%",
+    "uptime": "93.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.99%",
-    "uptimeMonth": "93.56%",
-    "uptimeYear": "93.56%",
+    "uptimeMonth": "93.57%",
+    "uptimeYear": "93.57%",
     "time": 818,
     "timeDay": 678,
     "timeWeek": 802,
@@ -26,12 +26,12 @@
     "url": "https://swaarg.ai/Black-font-logo.png",
     "icon": "https://icons.duckduckgo.com/ip3/swaarg.ai.ico",
     "slug": "swaarg-ai",
-    "status": "down",
-    "uptime": "98.60%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "98.60%",
-    "uptimeYear": "98.60%",
+    "status": "up",
+    "uptime": "98.54%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "98.54%",
+    "uptimeYear": "98.54%",
     "time": 548,
     "timeDay": 153,
     "timeWeek": 493,
@@ -40,7 +40,7 @@
     "dailyMinutesDown": {
       "2026-07-25": 74,
       "2026-07-26": 91,
-      "2026-08-01": 0
+      "2026-08-01": 8
     }
   },
   {
@@ -145,12 +145,12 @@
     "url": "https://fireshe.com/footer.png",
     "icon": "https://icons.duckduckgo.com/ip3/fireshe.com.ico",
     "slug": "fireshe",
-    "status": "down",
-    "uptime": "99.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.00%",
+    "status": "up",
+    "uptime": "98.91%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 1181,
     "timeDay": 320,
     "timeWeek": 1131,
@@ -159,7 +159,7 @@
     "dailyMinutesDown": {
       "2026-07-25": 44,
       "2026-07-26": 71,
-      "2026-08-01": 0
+      "2026-08-01": 11
     }
   },
   {
