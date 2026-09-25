@@ -15,16 +15,6 @@ sites:
     headers:
       - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
 
-  - name: Swaarg AI
-    url: https://swaarg.ai/Black-font-logo.png
-    maxResponseTime: 30000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 403
-    headers:
-      - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
-
   - name: BSB Admin Panel + Mobile APIs
     url: https://bsbprime.bsbinfotrade.com/login
     maxResponseTime: 30000
@@ -76,15 +66,7 @@ sites:
     headers:
       - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
 
-  - name: Fireshe
-    url: https://fireshe.com/footer.png
-    maxResponseTime: 30000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 403
-    headers:
-      - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
+
 
   - name: (PORT) Backend NodeJS
     url: http://94.136.187.248:3000/
