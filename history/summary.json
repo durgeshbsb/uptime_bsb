@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
-    "time": 683,
-    "timeDay": 396,
-    "timeWeek": 621,
+    "time": 681,
+    "timeDay": 417,
+    "timeWeek": 598,
     "timeMonth": 451,
-    "timeYear": 683,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2026-07-24": 50,
       "2026-07-25": 478,
@@ -26,10 +26,10 @@
     "url": "https://bsbprime.bsbinfotrade.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/bsbprime.bsbinfotrade.com.ico",
     "slug": "bsb-admin-panel-mobile-ap-is",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1030,
@@ -38,7 +38,8 @@
     "timeMonth": 1167,
     "timeYear": 1030,
     "dailyMinutesDown": {
-      "2026-07-24": 12
+      "2026-07-24": 12,
+      "2026-10-19": 1
     }
   },
   {
@@ -46,10 +47,10 @@
     "url": "https://bsbprimedemo.bsbinfotrade.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/bsbprimedemo.bsbinfotrade.com.ico",
     "slug": "demo-bsb-admin-panel-mobile-ap-is",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1051,
@@ -58,7 +59,8 @@
     "timeMonth": 1196,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2026-07-24": 12
+      "2026-07-24": 12,
+      "2026-10-19": 1
     }
   },
   {
@@ -72,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1251,
-    "timeDay": 1123,
-    "timeWeek": 1165,
-    "timeMonth": 1245,
-    "timeYear": 1251,
+    "time": 1250,
+    "timeDay": 1156,
+    "timeWeek": 1168,
+    "timeMonth": 1243,
+    "timeYear": 1250,
     "dailyMinutesDown": {
       "2026-07-25": 59,
       "2026-07-26": 81
@@ -87,10 +89,10 @@
     "url": "https://backend.bsbinfotrade.com/",
     "icon": "https://icons.duckduckgo.com/ip3/backend.bsbinfotrade.com.ico",
     "slug": "backend-node-js",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 783,
@@ -99,7 +101,8 @@
     "timeMonth": 800,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2026-08-11": 10
+      "2026-08-11": 10,
+      "2026-10-19": 1
     }
   },
   {
@@ -107,9 +110,9 @@
     "url": "https://api-taskscheduler.bsbinfotrade.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-taskscheduler.bsbinfotrade.com.ico",
     "slug": "task-scheduler",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -118,16 +121,18 @@
     "timeWeek": 705,
     "timeMonth": 761,
     "timeYear": 763,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-19": 0
+    }
   },
   {
     "name": "(PORT) Backend NodeJS",
     "url": "http://94.136.187.248:3000/",
     "icon": "https://icons.duckduckgo.com/ip3/94.136.187.248.ico",
     "slug": "port-backend-node-js",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -137,7 +142,8 @@
     "timeMonth": 430,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2026-08-11": 8
+      "2026-08-11": 8,
+      "2026-10-19": 0
     }
   }
 ]
