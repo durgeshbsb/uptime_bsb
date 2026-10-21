@@ -3,17 +3,17 @@ owner: durgeshbsb # Your GitHub organization or username, where this repository 
 repo: uptime_bsb # The name of this  repository
 
 sites:
-  - name: Bsb fortrade website
-    url: https://bsbfortrade.com/assets/images/Logo_bsb_white.webp
-    maxResponseTime: 30000
-    expectedStatusCodes:
-      - 0
-      - 200
-      - 301
-      - 302
-      - 403
-    headers:
-      - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
+  # - name: Bsb fortrade website
+  #   url: https://bsbfortrade.com/assets/images/Logo_bsb_white.webp
+  #   maxResponseTime: 30000
+  #   expectedStatusCodes:
+  #     - 0
+  #     - 200
+  #     - 301
+  #     - 302
+  #     - 403
+  #   headers:
+  #     - "User-Agent: Mozilla/5.0 (compatible; BSB-Upptime/1.0)"
 
   - name: BSB Admin Panel + Mobile APIs
     url: https://bsbprime.bsbinfotrade.com/login
