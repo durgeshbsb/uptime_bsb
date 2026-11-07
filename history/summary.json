@@ -44,21 +44,21 @@
     "url": "https://chantriq.com/assets/Image/Chantriq_logo12.webp",
     "icon": "https://icons.duckduckgo.com/ip3/chantriq.com.ico",
     "slug": "chantriq",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.91%",
-    "time": 1641,
-    "timeDay": 18574,
-    "timeWeek": 5539,
-    "timeMonth": 3088,
-    "timeYear": 1641,
+    "time": 1639,
+    "timeDay": 12796,
+    "timeWeek": 5062,
+    "timeMonth": 3034,
+    "timeYear": 1639,
     "dailyMinutesDown": {
       "2026-07-25": 59,
       "2026-07-26": 81,
-      "2026-11-07": 0
+      "2026-11-07": 3
     }
   },
   {
