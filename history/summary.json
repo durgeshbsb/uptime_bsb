@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1044,
-    "timeDay": 879,
-    "timeWeek": 838,
-    "timeMonth": 1113,
-    "timeYear": 1044,
+    "time": 1043,
+    "timeDay": 857,
+    "timeWeek": 855,
+    "timeMonth": 1103,
+    "timeYear": 1043,
     "dailyMinutesDown": {
       "2026-07-24": 12
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1056,
-    "timeDay": 926,
-    "timeWeek": 855,
-    "timeMonth": 1115,
-    "timeYear": 1056,
+    "time": 1055,
+    "timeDay": 954,
+    "timeWeek": 872,
+    "timeMonth": 1104,
+    "timeYear": 1055,
     "dailyMinutesDown": {
       "2026-07-24": 12
     }
@@ -46,19 +46,18 @@
     "slug": "chantriq",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1639,
-    "timeDay": 12796,
-    "timeWeek": 5062,
-    "timeMonth": 3034,
-    "timeYear": 1639,
+    "time": 1637,
+    "timeDay": 12822,
+    "timeWeek": 5082,
+    "timeMonth": 3031,
+    "timeYear": 1637,
     "dailyMinutesDown": {
       "2026-07-25": 59,
-      "2026-07-26": 81,
-      "2026-11-07": 3
+      "2026-07-26": 81
     }
   },
   {
@@ -73,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 782,
-    "timeDay": 1093,
-    "timeWeek": 802,
-    "timeMonth": 772,
+    "timeDay": 760,
+    "timeWeek": 807,
+    "timeMonth": 773,
     "timeYear": 782,
     "dailyMinutesDown": {
       "2026-08-11": 10
@@ -93,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 764,
-    "timeDay": 926,
-    "timeWeek": 768,
-    "timeMonth": 748,
+    "timeDay": 720,
+    "timeWeek": 758,
+    "timeMonth": 746,
     "timeYear": 764,
     "dailyMinutesDown": {}
   },
@@ -111,8 +110,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 427,
-    "timeDay": 462,
-    "timeWeek": 449,
+    "timeDay": 444,
+    "timeWeek": 452,
     "timeMonth": 428,
     "timeYear": 427,
     "dailyMinutesDown": {
