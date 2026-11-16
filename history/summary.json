@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1031,
-    "timeDay": 764,
-    "timeWeek": 831,
-    "timeMonth": 1038,
-    "timeYear": 1031,
+    "time": 1029,
+    "timeDay": 791,
+    "timeWeek": 824,
+    "timeMonth": 1026,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2026-07-24": 12
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1047,
-    "timeDay": 805,
-    "timeWeek": 912,
-    "timeMonth": 1046,
-    "timeYear": 1047,
+    "time": 1045,
+    "timeDay": 788,
+    "timeWeek": 886,
+    "timeMonth": 1036,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2026-07-24": 12
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chantriq.com.ico",
     "slug": "chantriq",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 1620,
-    "timeDay": 1242,
-    "timeWeek": 1244,
-    "timeMonth": 2989,
-    "timeYear": 1620,
+    "uptimeYear": "99.92%",
+    "time": 1618,
+    "timeDay": 1321,
+    "timeWeek": 1246,
+    "timeMonth": 2994,
+    "timeYear": 1618,
     "dailyMinutesDown": {
       "2026-07-25": 59,
       "2026-07-26": 81
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 781,
-    "timeDay": 724,
-    "timeWeek": 765,
-    "timeMonth": 778,
-    "timeYear": 781,
+    "time": 780,
+    "timeDay": 694,
+    "timeWeek": 748,
+    "timeMonth": 771,
+    "timeYear": 780,
     "dailyMinutesDown": {
       "2026-08-11": 10
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 746,
-    "timeWeek": 747,
-    "timeMonth": 753,
-    "timeYear": 763,
+    "time": 762,
+    "timeDay": 614,
+    "timeWeek": 710,
+    "timeMonth": 750,
+    "timeYear": 762,
     "dailyMinutesDown": {}
   },
   {
@@ -110,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 427,
-    "timeDay": 430,
-    "timeWeek": 435,
-    "timeMonth": 435,
+    "timeDay": 399,
+    "timeWeek": 424,
+    "timeMonth": 433,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2026-08-11": 8
