@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1021,
-    "timeDay": 1034,
+    "time": 1019,
+    "timeDay": 791,
     "timeWeek": 875,
-    "timeMonth": 967,
-    "timeYear": 1021,
+    "timeMonth": 959,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2026-07-24": 12
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1036,
-    "timeDay": 955,
-    "timeWeek": 877,
-    "timeMonth": 949,
-    "timeYear": 1036,
+    "time": 1035,
+    "timeDay": 970,
+    "timeWeek": 903,
+    "timeMonth": 943,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2026-07-24": 12
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1600,
-    "timeDay": 1240,
-    "timeWeek": 1176,
-    "timeMonth": 3106,
-    "timeYear": 1600,
+    "time": 1598,
+    "timeDay": 1236,
+    "timeWeek": 1173,
+    "timeMonth": 3113,
+    "timeYear": 1598,
     "dailyMinutesDown": {
       "2026-07-25": 59,
       "2026-07-26": 81
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 782,
-    "timeDay": 1117,
-    "timeWeek": 815,
-    "timeMonth": 773,
+    "timeDay": 743,
+    "timeWeek": 811,
+    "timeMonth": 775,
     "timeYear": 782,
     "dailyMinutesDown": {
       "2026-08-11": 10
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 762,
-    "timeDay": 874,
-    "timeWeek": 768,
-    "timeMonth": 741,
+    "timeDay": 816,
+    "timeWeek": 766,
+    "timeMonth": 744,
     "timeYear": 762,
     "dailyMinutesDown": {}
   },
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 505,
-    "timeWeek": 429,
-    "timeMonth": 434,
-    "timeYear": 427,
+    "time": 428,
+    "timeDay": 548,
+    "timeWeek": 446,
+    "timeMonth": 440,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2026-08-11": 8
     }
